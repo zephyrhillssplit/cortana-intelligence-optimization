@@ -1,9 +1,4 @@
-# Demand Forecasting and Price Optimization Solution
-
-## Table of Contents  
-- [Abstract](#abstract)  
-- [Requirements](#requirements)
-- [Architecture](#architecture)
+ [Architecture](#architecture)
 - [Setup Steps](#setup-steps)
 - [Validation and Results](#validation-and-results)
 - [Delete the Solution](#delete-the-solution)
